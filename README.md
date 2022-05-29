@@ -1,7 +1,7 @@
 # Movie-Recommender-
 A movie recommendation system using algorithms 
 
-##Content Based Movie recommendation system :
+## Content Based Movie recommendation system :
 Content-based recommendation system describes the items that may be recommended to the user. Based on a data set, it predicts what movies a user will like considering the attributes present in the previously liked movies. Recommendation systems can recommend movies based on one or a combination of two or more attributes
 
 ## Algorithm used-
