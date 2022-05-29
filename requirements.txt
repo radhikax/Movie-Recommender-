@@ -1,0 +1,7 @@
+numpy
+pandas
+jupyter notebook
+pycharm
+streamlit
+sklearn
+pickle
